@@ -1,3 +1,3 @@
-#features
-##kindness,curious,lazy,religious,fat
+# features
+## kindness,curious,lazy,religious,fat
 
